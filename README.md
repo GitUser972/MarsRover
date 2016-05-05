@@ -3,7 +3,7 @@
 
 This problem used to be a coding assignment at ThoughtWorks' interview coding round. With this repository and a series of blog posts here I use this problem to demonstrate application of OO concepts and design patterns. 
 
-Feel free to use it in any way you like. Reach out to me at "priyaaank [at] gmail" for any feedback or comments.
+Feel free to use it in any way you like. Reach out to me at  for any feedback or comments.
 
 The complete write-up rationalizing the code is in a series of blog (mentioned below):
 
